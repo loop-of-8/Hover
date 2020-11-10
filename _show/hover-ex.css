@@ -1,0 +1,6 @@
+#hoverex .hvr-icon-spin:hover .hvr-icon, 
+#hoverex .hvr-icon-spin:focus .hvr-icon, 
+#hoverex .hvr-icon-spin:active .hvr-icon {
+  -webkit-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
